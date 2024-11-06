@@ -23,4 +23,3 @@ public class ProductApplication {
 		TimeZone.setDefault(TimeZone.getTimeZone("Asia/Seoul"));
 	}
 }
-
