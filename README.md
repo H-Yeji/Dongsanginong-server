@@ -1,4 +1,4 @@
-![KakaoTalk_20241020_232028824 (1)](https://github.com/user-attachments/assets/9c071627-d56c-4de6-b26a-e51c45f276be)
+![KakaoTalk_20241020_232028824 (1)](https://github.com/user-attachments/assets/ebddec83-3ba9-4b0e-8782-79c936fc5b75)
 
 <div align=center>
   
@@ -24,7 +24,7 @@
 <br><br>
 
 ## 📝 요구 사항 명세서
-![요구사항2](https://github.com/user-attachments/assets/109232ba-7e48-4144-8557-48c9c8474d3e)
+![요구사항2](https://github.com/user-attachments/assets/43ee6794-4718-45e6-acca-9bacc78dfb39)
 
 <div align=center>
 
@@ -34,7 +34,7 @@
 <br><br>
 
 ## 🗓️ WBS
-![image](https://github.com/user-attachments/assets/a2bfcb17-2d78-400f-ac9b-5d1f91d53079)
+![image](https://github.com/user-attachments/assets/db3d8340-3da9-4268-8da9-be6f87512711)
 
 <div align=center>
 
@@ -44,7 +44,7 @@
 <br><br>
 
 ## ☁️ ERD
-![dongsanginong-erd](https://github.com/user-attachments/assets/a2dba445-44e0-4ef4-afc8-32f5b776a46e)
+![dongsanginong-erd](https://github.com/user-attachments/assets/2a2cbefa-3494-4382-b800-d6f03dd82ea0)
 <div align=center>
   
   [⬆️ERD CLOUD 바로가기](https://www.erdcloud.com/d/AgNZCZGaBx6NE8JhL)
