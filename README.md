@@ -53,29 +53,29 @@
 <br><br>
 
 ## ⚙️ 시스템 아키텍처
-<img width="1324" alt="시스템 아키텍쳐" src="https://github.com/user-attachments/assets/8d9ab59d-10fe-4c53-a1b4-9edad39ffc05">
+<img width="1324" alt="전체" src="https://github.com/user-attachments/assets/58138f35-17d1-4811-bdb8-8a5a9fb98f7c">
 
 <details>
   <summary>WebRTC + OpenVidu 다이어그램</summary>
   <br>
-  
-  ![webrtc](https://github.com/user-attachments/assets/3e09db79-a91a-4b73-a991-de4f50ccd41d)
+
+  <img src="https://github.com/user-attachments/assets/ae488213-562f-4c3c-b248-210d3befd383" width=800>
   <br>
 </details>
 
 <details>
   <summary>OpenSearch 다이어그램</summary>
   <br>
-  
-  ![opensearch](https://github.com/user-attachments/assets/4ce3600f-4da9-4eb3-ba0f-3221cfec1a58)
+
+  <img src="https://github.com/user-attachments/assets/2fee3d31-4374-42be-a7e2-14874df80933" width=800>
   
 </details>
 
 <details>
   <summary>PortOne 결제 다이어그램</summary>
   <br>
-  
-  ![portone](https://github.com/user-attachments/assets/62502ead-5b33-4670-869a-39d1d6f5e2e7)
+
+  <img src="https://github.com/user-attachments/assets/f29b44a3-a614-4295-b0e8-c82487c3b1a5" width=800>
   
 </details>
 
@@ -84,7 +84,7 @@
 ## 📈 프로그램사양서
 <div align=center>
 
-  <img src="https://github.com/user-attachments/assets/7f95cf0b-de2a-46cf-bbb8-5dae99077bbd" width=250>
+  <img src="https://github.com/user-attachments/assets/a9d7bdc9-7773-4769-89d2-0e4797d1b094" width=250>
   
   [⬆️API 명세서 보기](https://documenter.getpostman.com/view/37325338/2sAXxLDEqJ#9c2ba4c5-6901-44e7-ad72-8bc8495ab8e0)
 </div>
